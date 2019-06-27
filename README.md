@@ -16,10 +16,10 @@
 Go Tour App iOS 9 application using Swift 2 (Xcode 7).  
 This project is a Taxi App which is a transportation network application. It allows riders to submit trip request which is then routed to Taxi drivers who use their own cars.  
   
-The app implements some of the main features of Uber:
+The app implements some of the main features of taxi:
 - Login/Signup page
 - Logout
-- Call an Uber
+- Call an taxi
 - Check rider request (disance, time, location)
-- Get direction to the rider who call an Uber
+- Get direction to the rider who call a driver
 - Get position of the driver in real time
